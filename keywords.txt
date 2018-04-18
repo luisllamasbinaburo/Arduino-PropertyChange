@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map PropertyChange
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+PropertyChange	KEYWORD1
+	
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Update	KEYWORD2
+AddTrigger	KEYWORD2
+RemoveTrigger	KEYWORD2
+DisableTrigger	KEYWORD2
+DisableAllExcept	KEYWORD2
+DisableAllTriggers	KEYWORD2
+EnableTrigger	KEYWORD2
+EnableAllExcept	KEYWORD2
+EnableAllTriggers	KEYWORD2
