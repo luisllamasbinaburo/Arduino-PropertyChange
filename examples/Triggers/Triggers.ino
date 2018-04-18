@@ -20,8 +20,7 @@ void PropertyDebug(PropertyChange<int>&prop, int newvalue)
 }
 
 // Create property
-PropertyChange<int> value(0, [](PropertyChange<int> a) {Serial.print("Changed from "); Serial.print(a.LastValue); 
-													 Serial.print(" to "); Serial.println(a.CurrentValue); });
+PropertyChange<int> value(0, [](PropertyChange<int> a) {Serial.print("Changed from "); Serial.print(a.LastValue); Serial.print(" to "); Serial.println(a.CurrentValue); });
 
 void setup()
 {
