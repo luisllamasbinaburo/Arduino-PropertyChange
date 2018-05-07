@@ -1,5 +1,5 @@
 # Librería Arduino PropertyChange
-La librería ProperyChange implementa una variable que conoce su estado anterior, y ejecuta una acción de callback cuando el valor actual cambia. Adicionalmente se pueden definir triggers, condiciones que evalúan al asignar un valor y que disparan sus propias acciones.
+La librería PropertyChange implementa una variable que conoce su estado anterior, y ejecuta una acción de callback cuando el valor actual cambia. Adicionalmente se pueden definir triggers, condiciones que evalúan al asignar un valor y que disparan sus propias acciones.
 
 Más información https://www.luisllamas.es/libreria-arduino-properychange/
 
